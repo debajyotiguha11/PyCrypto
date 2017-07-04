@@ -57,8 +57,8 @@ def allfiles():
 	return allFiles
 
 	
-choice = raw_input("Do you want to (E)ncrypt or (D)ecrypt? *CASE SENSITIVE*")
-password = raw_input("Enter the password: ")
+choice = raw_input("Do you want to (E)ncrypt or (D)ecrypt? *Use Capital_Later only* \n")
+password = raw_input("Enter the password: \n")
 
 encFiles = allfiles()
 

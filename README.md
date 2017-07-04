@@ -16,16 +16,25 @@ Python Lybrary
 ## Details
 This project is created for those who want to work with Cryptography.
 This will give you the simple basic Algorithm how we can use encryption and decryption to a file.
+If You are doing any project, this will help you a lot :)
 
 ## Installing
 * clone the project
 * open a terminal and goto the project directory
-* hit "pycrypto.py" in terminal
+* hit "pycrypto.py" in the Terminal
 
 ## Running the TEST
-* 1. Run "pycrypto.py" this will ask you to encrypt (or) decrypt.
-* 2. Hit E for Encrypting file or D for decrypting  file.
 
+### For Encryption:-
+* 1. Run "pycrypto.py" from "PyCrypto" directory. This will ask you to encrypt (or) decrypt.
+* 2. Hit E for Encrypting file "testme.txt" that present in the same directory
+* 3. Then give a password (Remember the password!)
+* 4. Done!
+### For Decryption:-
+* 1. Run "pycrypto.py" from "PyCrypto" directory. This will ask you to encrypt (or) decrypt.
+* 2. Hit D for Decrypting file "(encrypted)testme.txt" that present in the same directory
+* 3. Then give a password (The same password that you used for encryption)
+* 4. Done!
 ## HelpFull Links
 * https://docs.python.org/3/
 * https://docs.python.org/2/
