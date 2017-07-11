@@ -1,3 +1,13 @@
+# Script Name   : pycrypto.py
+# Author        : Debjyoti Guha
+# Created       : 04th July 2017
+# Last Modified	: 11 July 2017
+# Version       : 1.0.1
+
+# Modifications : 
+
+# Description   : This Will Encrypt and decrypt files with user password.
+
 from Crypto.Hash import SHA256
 from Crypto.Cipher import AES
 import os, random, sys, pkg_resources
