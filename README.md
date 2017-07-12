@@ -19,7 +19,8 @@ This will give you the simple basic Algorithm how we can use encryption and decr
 If You are doing any project, this will help you a lot :)
 
 ## Installing
-* clone the project
+* Forke my project
+* clone the project to tour pc
 * open a terminal and goto the project directory
 * hit "pycrypto.py" in the Terminal
 
