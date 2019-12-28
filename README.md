@@ -1,7 +1,7 @@
 # PyCrypto
  Simple AES Encryption and Decryption system using Python
 
-## Requarements
+## Requirements
 * Python 2.x
 
 Python Lybrary
